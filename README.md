@@ -35,4 +35,4 @@ Step1
  3)After scrapping and storing into the dataframe performed Exploratory Data Analyis(Checking the correlation between columns,inputing NA values)
  
  4)With the Nearest Neibhours in Sklearn Package would able develop a basic basic reommendation System
- i.e When we give a  movie input it recommends top 10 movies baesd Budget,IMDB rating,Cummulative_Gross,Number of reviewers,gross_USA
+ i.e When we give a  movie input it recommends top 10 movies based director,plot,popularity index,genres and stars
