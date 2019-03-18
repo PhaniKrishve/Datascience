@@ -2,7 +2,7 @@
 ---Datascience Related projects
 
 Scrapped and Developed Basic Recommedation System for top 250 IMD movies
-Step1
+Step1:scrapping
 1)Scrapped the top 250 movies of IMDB data
 2)Columns which were scrapped were:
  Name of the movie 
@@ -31,8 +31,9 @@ Step1
  - Gross USA 
  - Cumulative worlwide Gross 
  - Production company 
+ Step2:Building a Reommadation System
+ 1)After scrapping and stored the data  into the dataframe performed Exploratory Data Analyis(Checking the correlation between columns,inputing NA values)
+ 2)From Keywords column(main plot words) generated a bag of words by the help of count vectorizer . 
  
- 3)After scrapping and storing into the dataframe performed Exploratory Data Analyis(Checking the correlation between columns,inputing NA values)
- 
- 4)With the Nearest Neibhours in Sklearn Package would able develop a basic basic reommendation System
+ 2)With the Nearest Neibhours in Sklearn Package would able develop a basic basic reommendation System
  i.e When we give a  movie input it recommends top 10 movies based director,plot,popularity index,genres and stars
