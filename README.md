@@ -34,8 +34,10 @@ Step1:scrapping
  - Cumulative worlwide Gross 
  - Production company 
  Step2:Building a Reommadation System
+ 
  1)After scrapping and stored the data  into the dataframe performed Exploratory Data Analyis(Checking the correlation between columns,inputing NA values)
+ 
  2)From Keywords column(main plot words) generated a bag of words by the help of count vectorizer . 
  
- 2)With the Nearest Neibhours in Sklearn Package would able develop a basic basic reommendation System
+ 3)With the Nearest Neibhours in Sklearn Package would able develop a basic basic reommendation System
  i.e When we give a  movie input it recommends top 10 movies based director,plot,popularity index,genres and stars
