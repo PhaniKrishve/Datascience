@@ -3,7 +3,9 @@
 
 Scrapped and Developed Basic Recommedation System for top 250 IMD movies
 Step1:scrapping
+
 1)Scrapped the top 250 movies of IMDB data
+
 2)Columns which were scrapped were:
  Name of the movie 
  - Year released 
